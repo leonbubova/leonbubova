@@ -6,7 +6,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 const OWNER = process.env.GH_OWNER ?? "leonbubova";
 const TOKEN = process.env.GITHUB_TOKEN;
 const README = new URL("../README.md", import.meta.url);
-const RECENT_COUNT = 30;
+const RECENT_DAYS = 183; // ~6 months
 
 const headers = {
   Accept: "application/vnd.github+json",
@@ -65,7 +65,8 @@ for (const r of repos) r.pages_url = r.has_pages ? await resolvePagesUrl(r) : nu
 
 const live = repos.filter((r) => r.pages_url && !r.archived);
 
-const recent = repos.filter((r) => !r.archived).slice(0, RECENT_COUNT);
+const cutoff = Date.now() - RECENT_DAYS * 864e5;
+const recent = repos.filter((r) => !r.archived && new Date(r.pushed_at) > cutoff);
 const rest = repos.filter((r) => !recent.includes(r));
 
 const siteRow = (r) =>
@@ -82,13 +83,13 @@ const sites = [
 ].join("\n");
 
 const activity = [
-  `### 🔨 Recently pushed`,
+  `### 🔨 Pushed in the last 6 months`,
   ``,
   `| Repo | About | | Lang | Last push |`,
   `|---|---|---|---|---|`,
   ...recent.map(repoRow),
   ``,
-  `<details><summary>Older repos (${rest.length})</summary>`,
+  `<details><summary>Older than 6 months (${rest.length})</summary>`,
   ``,
   `| Repo | About | | Lang | Last push |`,
   `|---|---|---|---|---|`,

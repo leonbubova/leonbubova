@@ -1,35 +1,28 @@
-- 👋 Hi, I'm @leonbubova
-- 🌱 Working with ts, react/react-native, node at my day job
-- 💞️ Looking to collaborate on neat ideas
+**Leon Bubova** · software engineer, Köln · payments backends at scale (Klarna, Ivy), now building products with AI in the loop.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React%20%2F%20RN-20232A?logo=react&logoColor=61DAFB) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white)
+
+[Website](https://leonbubova.github.io) · [LinkedIn](https://www.linkedin.com/in/leonbubova) · [CV](https://leonbubova.github.io/files/leon_bubova_cv.pdf) · [Mail](mailto:bubova.leon@gmail.com) · freelance, remote or on site
 
 <!-- SITES:START -->
-### 🌐 Live sites
+**🌐 Live sites**
 
-| Site | URL | | Last push |
-|---|---|---|---|
-| **[kaputt](https://leonbubova.github.io/kaputt/)** | `leonbubova.github.io/kaputt` | [repo](https://github.com/leonbubova/kaputt) | today |
-| **[gen8](https://leonbubova.github.io/gen8/)** | `leonbubova.github.io/gen8` | [repo](https://github.com/leonbubova/gen8) | today |
-| **[research-paper-reader](https://leonbubova.github.io/research-paper-reader/)** | `leonbubova.github.io/research-paper-reader` | [repo](https://github.com/leonbubova/research-paper-reader) | today |
-| **[subrosa-landingpage](https://subrosa-voice.de/)** | `subrosa-voice.de` | [repo](https://github.com/leonbubova/subrosa-landingpage) | 5d ago |
-| **[soft-landing](https://leonbubova.github.io/soft-landing/)** | `leonbubova.github.io/soft-landing` | [repo](https://github.com/leonbubova/soft-landing) | 10d ago |
-| **[shush-landingpage](https://shush.love/)** | `shush.love` | [repo](https://github.com/leonbubova/shush-landingpage) | 1mo ago |
-| **[vibe](https://leonbubova.github.io/vibe/)** | `leonbubova.github.io/vibe` | [repo](https://github.com/leonbubova/vibe) | 1mo ago |
-| **[vevi-design](https://leonbubova.github.io/vevi-design/)** | `leonbubova.github.io/vevi-design` | [repo](https://github.com/leonbubova/vevi-design) | 6mo ago |
-| **[third-spaces-2](https://leonbubova.github.io/third-spaces-2/)** | `leonbubova.github.io/third-spaces-2` | [repo](https://github.com/leonbubova/third-spaces-2) | 7mo ago |
-| **[third-spaces](https://leonbubova.github.io/third-spaces/)** | `leonbubova.github.io/third-spaces` | [repo](https://github.com/leonbubova/third-spaces) | 7mo ago |
-| **[egym-leon](https://leonbubova.github.io/egym-leon/)** | `leonbubova.github.io/egym-leon` | [repo](https://github.com/leonbubova/egym-leon) | 1y ago |
-| **[egym-karo](https://leonbubova.github.io/egym-karo/)** | `leonbubova.github.io/egym-karo` | [repo](https://github.com/leonbubova/egym-karo) | 1y ago |
-| **[two-pizzas](https://leonbubova.github.io/two-pizzas/)** | `leonbubova.github.io/two-pizzas` | [repo](https://github.com/leonbubova/two-pizzas) | 2y ago |
-| **[third-ear](https://leonbubova.github.io/third-ear/)** | `leonbubova.github.io/third-ear` | [repo](https://github.com/leonbubova/third-ear) | 4y ago |
-| **[easychords](https://leonbubova.github.io/easychords/)** | `leonbubova.github.io/easychords` | [repo](https://github.com/leonbubova/easychords) | 4y ago |
-| **[leonbubova.github.io](https://leonbubova.github.io/)** | `leonbubova.github.io` | [repo](https://github.com/leonbubova/leonbubova.github.io) | 5y ago |
+| | | |
+|---|---|---|
+| [**leonbubova.github.io**](https://leonbubova.github.io/) <sub>today</sub> | [**kaputt**](https://leonbubova.github.io/kaputt/) <sub>today</sub> | [**gen8**](https://leonbubova.github.io/gen8/) <sub>today</sub> |
+| [**research-paper-reader**](https://leonbubova.github.io/research-paper-reader/) <sub>today</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>5d ago</sub> | [**soft-landing**](https://leonbubova.github.io/soft-landing/) <sub>10d ago</sub> |
+| [**shush-landingpage**](https://shush.love/) <sub>1mo ago</sub> | [**vibe**](https://leonbubova.github.io/vibe/) <sub>1mo ago</sub> | [**vevi-design**](https://leonbubova.github.io/vevi-design/) <sub>6mo ago</sub> |
+| [**third-spaces-2**](https://leonbubova.github.io/third-spaces-2/) <sub>7mo ago</sub> | [**third-spaces**](https://leonbubova.github.io/third-spaces/) <sub>7mo ago</sub> | [**egym-leon**](https://leonbubova.github.io/egym-leon/) <sub>1y ago</sub> |
+| [**egym-karo**](https://leonbubova.github.io/egym-karo/) <sub>1y ago</sub> | [**two-pizzas**](https://leonbubova.github.io/two-pizzas/) <sub>2y ago</sub> | [**third-ear**](https://leonbubova.github.io/third-ear/) <sub>4y ago</sub> |
+| [**easychords**](https://leonbubova.github.io/easychords/) <sub>4y ago</sub> |  |  |
 <!-- SITES:END -->
 
 <!-- REPOS:START -->
-### 🔨 Pushed in the last 6 months
+<details><summary><b>🔨 Pushed in the last 6 months (14)</b></summary>
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
+| [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://leonbubova.github.io/) | HTML | today |
 | [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
 | [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://leonbubova.github.io/kaputt/) | HTML | today |
 | [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://leonbubova.github.io/gen8/) | HTML | today |
@@ -44,7 +37,8 @@
 | [shush-app-releases](https://github.com/leonbubova/shush-app-releases) |  |  |  | 1mo ago |
 | [moonshine-german](https://github.com/leonbubova/moonshine-german) | Fine-tuning Moonshine Tiny (27M) for German speech recognition |  | Jupyter Notebook | 5mo ago |
 
-<details><summary>Older than 6 months (27)</summary>
+</details>
+<details><summary>Older than 6 months (26)</summary>
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
@@ -69,7 +63,6 @@
 | [third-ear](https://github.com/leonbubova/third-ear) | Website for "Third Ear" a site to lend yourself another ear. | [live](https://leonbubova.github.io/third-ear/) | HTML | 4y ago |
 | [easychords](https://github.com/leonbubova/easychords) | a webapp to simplify guitar chords, making them easy to play for a beginner | [live](https://leonbubova.github.io/easychords/) | HTML | 4y ago |
 | [extension-reload](https://github.com/leonbubova/extension-reload) | Reloads a chrome extension on page refresh for you. So you can focus on coding it! |  | JavaScript | 4y ago |
-| [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://leonbubova.github.io/) | HTML | 5y ago |
 | [mrktplc-frontend](https://github.com/leonbubova/mrktplc-frontend) | SPA for an online marketplace frontend with landingpage built with reactjs and tailwindcss |  | JavaScript | 5y ago |
 | [ebay-notifications-frontend](https://github.com/leonbubova/ebay-notifications-frontend) |  |  | JavaScript | 5y ago |
 | [paper-hands](https://github.com/leonbubova/paper-hands) | A Paper Trade Account to simulate stock and crypto trades built with symfony |  | PHP | 5y ago |

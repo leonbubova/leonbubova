@@ -69,26 +69,33 @@ const cutoff = Date.now() - RECENT_DAYS * 864e5;
 const recent = repos.filter((r) => !r.archived && new Date(r.pushed_at) > cutoff);
 const rest = repos.filter((r) => !recent.includes(r));
 
-const siteRow = (r) =>
-  `| **[${r.name}](${r.pages_url})** | \`${short(r.pages_url)}\` | [repo](${r.html_url}) | ${rel(r.pushed_at)} |`;
 const repoRow = (r) =>
   `| [${r.name}](${r.html_url})${r.archived ? " 📦" : ""} | ${cell(r.description)} | ${r.pages_url ? `[live](${r.pages_url})` : ""} | ${r.language ?? ""} | ${rel(r.pushed_at)} |`;
 
+const COLS = 3;
+const siteCell = (r) => `[**${r.name}**](${r.pages_url}) <sub>${rel(r.pushed_at)}</sub>`;
+const grid = [];
+for (let i = 0; i < live.length; i += COLS) {
+  const row = live.slice(i, i + COLS).map(siteCell);
+  while (row.length < COLS) row.push("");
+  grid.push(`| ${row.join(" | ")} |`);
+}
 const sites = [
-  `### 🌐 Live sites`,
+  `**🌐 Live sites**`,
   ``,
-  `| Site | URL | | Last push |`,
-  `|---|---|---|---|`,
-  ...live.map(siteRow),
+  `| | | |`,
+  `|---|---|---|`,
+  ...grid,
 ].join("\n");
 
 const activity = [
-  `### 🔨 Pushed in the last 6 months`,
+  `<details><summary><b>🔨 Pushed in the last 6 months (${recent.length})</b></summary>`,
   ``,
   `| Repo | About | | Lang | Last push |`,
   `|---|---|---|---|---|`,
   ...recent.map(repoRow),
   ``,
+  `</details>`,
   `<details><summary>Older than 6 months (${rest.length})</summary>`,
   ``,
   `| Repo | About | | Lang | Last push |`,

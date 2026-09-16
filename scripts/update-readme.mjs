@@ -6,7 +6,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 const OWNER = process.env.GH_OWNER ?? "leonbubova";
 const TOKEN = process.env.GITHUB_TOKEN;
 const README = new URL("../README.md", import.meta.url);
-const RECENT_DAYS = 60;
+const RECENT_COUNT = 30;
 
 const headers = {
   Accept: "application/vnd.github+json",
@@ -64,8 +64,8 @@ const repos = (await listPublicRepos())
 for (const r of repos) r.pages_url = r.has_pages ? await resolvePagesUrl(r) : null;
 
 const live = repos.filter((r) => r.pages_url && !r.archived);
-const cutoff = Date.now() - RECENT_DAYS * 864e5;
-const recent = repos.filter((r) => !r.archived && new Date(r.pushed_at) > cutoff);
+
+const recent = repos.filter((r) => !r.archived).slice(0, RECENT_COUNT);
 const rest = repos.filter((r) => !recent.includes(r));
 
 const siteRow = (r) =>
@@ -82,13 +82,13 @@ const sites = [
 ].join("\n");
 
 const activity = [
-  `### 🔨 Pushed in the last ${RECENT_DAYS} days`,
+  `### 🔨 Recently pushed`,
   ``,
   `| Repo | About | | Lang | Last push |`,
   `|---|---|---|---|---|`,
   ...recent.map(repoRow),
   ``,
-  `<details><summary>All other public repos (${rest.length})</summary>`,
+  `<details><summary>Older repos (${rest.length})</summary>`,
   ``,
   `| Repo | About | | Lang | Last push |`,
   `|---|---|---|---|---|`,

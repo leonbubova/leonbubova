@@ -26,7 +26,7 @@
 <!-- SITES:END -->
 
 <!-- REPOS:START -->
-### 🔨 Pushed in the last 60 days
+### 🔨 Recently pushed
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
@@ -41,11 +41,6 @@
 | [vibe](https://github.com/leonbubova/vibe) | What would you build if no one was watching? | [live](https://leonbubova.github.io/vibe/) | HTML | 1mo ago |
 | [the-gradient](https://github.com/leonbubova/the-gradient) |  |  | HTML | 1mo ago |
 | [shush-app-releases](https://github.com/leonbubova/shush-app-releases) |  |  |  | 1mo ago |
-
-<details><summary>All other public repos (29)</summary>
-
-| Repo | About | | Lang | Last push |
-|---|---|---|---|---|
 | [moonshine-german](https://github.com/leonbubova/moonshine-german) | Fine-tuning Moonshine Tiny (27M) for German speech recognition |  | Jupyter Notebook | 5mo ago |
 | [vevi-design](https://github.com/leonbubova/vevi-design) | vevi — Veganes Vintage Café Website \| Köln | [live](https://leonbubova.github.io/vevi-design/) | HTML | 6mo ago |
 | [shush-app-legacy](https://github.com/leonbubova/shush-app-legacy) | Hush — privacy-first AI dictation for Android. Transcribe on-device, even in flight mode. No cloud needed. |  | Kotlin | 6mo ago |
@@ -65,6 +60,11 @@
 | [two-pizzas](https://github.com/leonbubova/two-pizzas) | An app to share your ideas and find co-founders | [live](https://leonbubova.github.io/two-pizzas/) | JavaScript | 2y ago |
 | [three](https://github.com/leonbubova/three) |  |  | JavaScript | 3y ago |
 | [cypress-chrome-extension-minimal-reproduction](https://github.com/leonbubova/cypress-chrome-extension-minimal-reproduction) |  |  | JavaScript | 4y ago |
+
+<details><summary>Older repos (10)</summary>
+
+| Repo | About | | Lang | Last push |
+|---|---|---|---|---|
 | [third-ear](https://github.com/leonbubova/third-ear) | Website for "Third Ear" a site to lend yourself another ear. | [live](https://leonbubova.github.io/third-ear/) | HTML | 4y ago |
 | [easychords](https://github.com/leonbubova/easychords) | a webapp to simplify guitar chords, making them easy to play for a beginner | [live](https://leonbubova.github.io/easychords/) | HTML | 4y ago |
 | [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  |  | 4y ago |

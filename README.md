@@ -22,8 +22,8 @@
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
-| [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://leonbubova.github.io/) | HTML | today |
 | [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
+| [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://leonbubova.github.io/) | HTML | today |
 | [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://leonbubova.github.io/kaputt/) | HTML | today |
 | [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://leonbubova.github.io/gen8/) | HTML | today |
 | [research-paper-reader](https://github.com/leonbubova/research-paper-reader) | Clean, Markdown-sourced dark reader for Harvard CS197 (AI Research Experiences) lecture notes — readable by humans and fed straight to agents. | [live](https://leonbubova.github.io/research-paper-reader/) | HTML | today |

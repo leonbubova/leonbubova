@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Leon — software engineer in Köln. Payments backends at scale (Klarna, Ivy), now building products with AI in the loop.
-- 🌱 TypeScript everywhere it fits, Kotlin where the phone needs it, Python for models, shell for servers. Claude Code is a daily pair.
-- 💞️ Freelance, remote or on site — [website](https://leonbubova.github.io) · [LinkedIn](https://www.linkedin.com/in/leonbubova) · [CV](https://leonbubova.github.io/files/leon_bubova_cv.pdf) · [mail](mailto:bubova.leon@gmail.com)
+- 👋 Leon, software engineer in Köln. Payments backends at scale (Klarna, Ivy), now building products with AI in the loop.
+- 🌱 TypeScript/Node, React, Python for models, shell for servers. Claude Code as daily pair.
+- 💞️ Freelance, remote or on site · [website](https://leonbubova.github.io) · [LinkedIn](https://www.linkedin.com/in/leonbubova) · [CV](https://leonbubova.github.io/files/leon_bubova_cv.pdf) · [mail](mailto:bubova.leon@gmail.com)
 
 <!-- SITES:START -->
 **🌐 Live sites**

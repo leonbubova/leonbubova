@@ -1,8 +1,6 @@
-**Leon Bubova** · software engineer, Köln · payments backends at scale (Klarna, Ivy), now building products with AI in the loop.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React%20%2F%20RN-20232A?logo=react&logoColor=61DAFB) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white)
-
-[Website](https://leonbubova.github.io) · [LinkedIn](https://www.linkedin.com/in/leonbubova) · [CV](https://leonbubova.github.io/files/leon_bubova_cv.pdf) · [Mail](mailto:bubova.leon@gmail.com) · freelance, remote or on site
+- 👋 Hi, I'm Leon — software engineer in Köln. Payments backends at scale (Klarna, Ivy), now building products with AI in the loop.
+- 🌱 TypeScript everywhere it fits, Kotlin where the phone needs it, Python for models, shell for servers. Claude Code is a daily pair.
+- 💞️ Freelance, remote or on site — [website](https://leonbubova.github.io) · [LinkedIn](https://www.linkedin.com/in/leonbubova) · [CV](https://leonbubova.github.io/files/leon_bubova_cv.pdf) · [mail](mailto:bubova.leon@gmail.com)
 
 <!-- SITES:START -->
 **🌐 Live sites**

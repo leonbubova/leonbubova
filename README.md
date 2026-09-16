@@ -30,6 +30,7 @@
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
+| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
 | [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://leonbubova.github.io/kaputt/) | HTML | today |
 | [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://leonbubova.github.io/gen8/) | HTML | today |
 | [research-paper-reader](https://github.com/leonbubova/research-paper-reader) | Clean, Markdown-sourced dark reader for Harvard CS197 (AI Research Experiences) lecture notes — readable by humans and fed straight to agents. | [live](https://leonbubova.github.io/research-paper-reader/) | HTML | today |
@@ -43,7 +44,7 @@
 | [shush-app-releases](https://github.com/leonbubova/shush-app-releases) |  |  |  | 1mo ago |
 | [moonshine-german](https://github.com/leonbubova/moonshine-german) | Fine-tuning Moonshine Tiny (27M) for German speech recognition |  | Jupyter Notebook | 5mo ago |
 
-<details><summary>Older than 6 months (28)</summary>
+<details><summary>Older than 6 months (27)</summary>
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
@@ -67,7 +68,6 @@
 | [cypress-chrome-extension-minimal-reproduction](https://github.com/leonbubova/cypress-chrome-extension-minimal-reproduction) |  |  | JavaScript | 4y ago |
 | [third-ear](https://github.com/leonbubova/third-ear) | Website for "Third Ear" a site to lend yourself another ear. | [live](https://leonbubova.github.io/third-ear/) | HTML | 4y ago |
 | [easychords](https://github.com/leonbubova/easychords) | a webapp to simplify guitar chords, making them easy to play for a beginner | [live](https://leonbubova.github.io/easychords/) | HTML | 4y ago |
-| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  |  | 4y ago |
 | [extension-reload](https://github.com/leonbubova/extension-reload) | Reloads a chrome extension on page refresh for you. So you can focus on coding it! |  | JavaScript | 4y ago |
 | [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://leonbubova.github.io/) | HTML | 5y ago |
 | [mrktplc-frontend](https://github.com/leonbubova/mrktplc-frontend) | SPA for an online marketplace frontend with landingpage built with reactjs and tailwindcss |  | JavaScript | 5y ago |

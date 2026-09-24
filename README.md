@@ -7,8 +7,8 @@
 
 | | | |
 |---|---|---|
-| [**leonbubova.github.io**](https://bubova.de/) <sub>6d ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>6d ago</sub> | [**gen8**](https://bubova.de/gen8/) <sub>6d ago</sub> |
-| [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>6d ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>12d ago</sub> | [**soft-landing**](https://bubova.de/soft-landing/) <sub>17d ago</sub> |
+| [**leonbubova.github.io**](https://bubova.de/) <sub>7d ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>7d ago</sub> | [**gen8**](https://bubova.de/gen8/) <sub>7d ago</sub> |
+| [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>7d ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>13d ago</sub> | [**soft-landing**](https://bubova.de/soft-landing/) <sub>18d ago</sub> |
 | [**shush-landingpage**](https://shush.love/) <sub>1mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>1mo ago</sub> | [**vibe**](https://bubova.de/vibe/) <sub>2mo ago</sub> |
 | [**vevi-design**](https://bubova.de/vevi-design/) <sub>6mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>7mo ago</sub> | [**third-spaces**](https://bubova.de/third-spaces/) <sub>8mo ago</sub> |
 | [**egym-leon**](https://bubova.de/egym-leon/) <sub>1y ago</sub> | [**egym-karo**](https://bubova.de/egym-karo/) <sub>1y ago</sub> | [**two-pizzas**](https://bubova.de/two-pizzas/) <sub>2y ago</sub> |
@@ -20,13 +20,13 @@
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
-| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | yesterday |
-| [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 6d ago |
-| [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 6d ago |
-| [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 6d ago |
-| [research-paper-reader](https://github.com/leonbubova/research-paper-reader) | Clean, Markdown-sourced dark reader for Harvard CS197 (AI Research Experiences) lecture notes — readable by humans and fed straight to agents. | [live](https://bubova.de/research-paper-reader/) | HTML | 6d ago |
-| [subrosa-landingpage](https://github.com/leonbubova/subrosa-landingpage) | Subrosa — deine stimme, dein text | [live](https://subrosa-voice.de/) | HTML | 12d ago |
-| [soft-landing](https://github.com/leonbubova/soft-landing) | Static one-page site (Vite, GitHub Pages) | [live](https://bubova.de/soft-landing/) | JavaScript | 17d ago |
+| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
+| [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 7d ago |
+| [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 7d ago |
+| [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 7d ago |
+| [research-paper-reader](https://github.com/leonbubova/research-paper-reader) | Clean, Markdown-sourced dark reader for Harvard CS197 (AI Research Experiences) lecture notes — readable by humans and fed straight to agents. | [live](https://bubova.de/research-paper-reader/) | HTML | 7d ago |
+| [subrosa-landingpage](https://github.com/leonbubova/subrosa-landingpage) | Subrosa — deine stimme, dein text | [live](https://subrosa-voice.de/) | HTML | 13d ago |
+| [soft-landing](https://github.com/leonbubova/soft-landing) | Static one-page site (Vite, GitHub Pages) | [live](https://bubova.de/soft-landing/) | JavaScript | 18d ago |
 | [shush-landingpage](https://github.com/leonbubova/shush-landingpage) |  | [live](https://shush.love/) | JavaScript | 1mo ago |
 | [shush-landing-page-v1](https://github.com/leonbubova/shush-landing-page-v1) |  | [live](https://bubova.de/shush-landing-page-v1/) | HTML | 1mo ago |
 | [shush-model-export](https://github.com/leonbubova/shush-model-export) |  |  | Python | 2mo ago |
@@ -71,7 +71,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-09-23 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-09-24 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

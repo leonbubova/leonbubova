@@ -7,39 +7,39 @@
 
 | | | |
 |---|---|---|
-| [**leonbubova.github.io**](https://bubova.de/) <sub>21d ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>21d ago</sub> | [**gen8**](https://bubova.de/gen8/) <sub>22d ago</sub> |
-| [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>22d ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>27d ago</sub> | [**soft-landing**](https://bubova.de/soft-landing/) <sub>1mo ago</sub> |
-| [**shush-landingpage**](https://shush.love/) <sub>1mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>1mo ago</sub> | [**vibe**](https://bubova.de/vibe/) <sub>2mo ago</sub> |
+| [**leonbubova.github.io**](https://bubova.de/) <sub>22d ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>22d ago</sub> | [**gen8**](https://bubova.de/gen8/) <sub>23d ago</sub> |
+| [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>23d ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>28d ago</sub> | [**soft-landing**](https://bubova.de/soft-landing/) <sub>1mo ago</sub> |
+| [**shush-landingpage**](https://shush.love/) <sub>2mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>2mo ago</sub> | [**vibe**](https://bubova.de/vibe/) <sub>2mo ago</sub> |
 | [**vevi-design**](https://bubova.de/vevi-design/) <sub>6mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>8mo ago</sub> | [**third-spaces**](https://bubova.de/third-spaces/) <sub>8mo ago</sub> |
 | [**egym-leon**](https://bubova.de/egym-leon/) <sub>1y ago</sub> | [**egym-karo**](https://bubova.de/egym-karo/) <sub>1y ago</sub> | [**two-pizzas**](https://bubova.de/two-pizzas/) <sub>2y ago</sub> |
 | [**third-ear**](https://bubova.de/third-ear/) <sub>4y ago</sub> | [**easychords**](https://bubova.de/easychords/) <sub>4y ago</sub> |  |
 <!-- SITES:END -->
 
 <!-- REPOS:START -->
-<details><summary><b>🔨 Pushed in the last 6 months (14)</b></summary>
+<details><summary><b>🔨 Pushed in the last 6 months (13)</b></summary>
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
-| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | yesterday |
-| [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 21d ago |
-| [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 21d ago |
-| [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 22d ago |
-| [research-paper-reader](https://github.com/leonbubova/research-paper-reader) | Clean, Markdown-sourced dark reader for Harvard CS197 (AI Research Experiences) lecture notes — readable by humans and fed straight to agents. | [live](https://bubova.de/research-paper-reader/) | HTML | 22d ago |
-| [subrosa-landingpage](https://github.com/leonbubova/subrosa-landingpage) | Subrosa — deine stimme, dein text | [live](https://subrosa-voice.de/) | HTML | 27d ago |
+| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
+| [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 22d ago |
+| [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 22d ago |
+| [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 23d ago |
+| [research-paper-reader](https://github.com/leonbubova/research-paper-reader) | Clean, Markdown-sourced dark reader for Harvard CS197 (AI Research Experiences) lecture notes — readable by humans and fed straight to agents. | [live](https://bubova.de/research-paper-reader/) | HTML | 23d ago |
+| [subrosa-landingpage](https://github.com/leonbubova/subrosa-landingpage) | Subrosa — deine stimme, dein text | [live](https://subrosa-voice.de/) | HTML | 28d ago |
 | [soft-landing](https://github.com/leonbubova/soft-landing) | Static one-page site (Vite, GitHub Pages) | [live](https://bubova.de/soft-landing/) | JavaScript | 1mo ago |
-| [shush-landingpage](https://github.com/leonbubova/shush-landingpage) |  | [live](https://shush.love/) | JavaScript | 1mo ago |
-| [shush-landing-page-v1](https://github.com/leonbubova/shush-landing-page-v1) |  | [live](https://bubova.de/shush-landing-page-v1/) | HTML | 1mo ago |
+| [shush-landingpage](https://github.com/leonbubova/shush-landingpage) |  | [live](https://shush.love/) | JavaScript | 2mo ago |
+| [shush-landing-page-v1](https://github.com/leonbubova/shush-landing-page-v1) |  | [live](https://bubova.de/shush-landing-page-v1/) | HTML | 2mo ago |
 | [shush-model-export](https://github.com/leonbubova/shush-model-export) |  |  | Python | 2mo ago |
 | [vibe](https://github.com/leonbubova/vibe) | What would you build if no one was watching? | [live](https://bubova.de/vibe/) | HTML | 2mo ago |
 | [the-gradient](https://github.com/leonbubova/the-gradient) |  |  | HTML | 2mo ago |
 | [shush-app-releases](https://github.com/leonbubova/shush-app-releases) |  |  |  | 2mo ago |
-| [moonshine-german](https://github.com/leonbubova/moonshine-german) | Fine-tuning Moonshine Tiny (27M) for German speech recognition |  | Jupyter Notebook | 6mo ago |
 
 </details>
-<details><summary>Older than 6 months (26)</summary>
+<details><summary>Older than 6 months (27)</summary>
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
+| [moonshine-german](https://github.com/leonbubova/moonshine-german) | Fine-tuning Moonshine Tiny (27M) for German speech recognition |  | Jupyter Notebook | 6mo ago |
 | [vevi-design](https://github.com/leonbubova/vevi-design) | vevi — Veganes Vintage Café Website \| Köln | [live](https://bubova.de/vevi-design/) | HTML | 6mo ago |
 | [shush-app-legacy](https://github.com/leonbubova/shush-app-legacy) | Hush — privacy-first AI dictation for Android. Transcribe on-device, even in flight mode. No cloud needed. |  | Kotlin | 7mo ago |
 | [third-spaces-2](https://github.com/leonbubova/third-spaces-2) |  | [live](https://bubova.de/third-spaces-2/) | CSS | 8mo ago |
@@ -71,7 +71,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-10-08 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-10-09 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

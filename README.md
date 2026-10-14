@@ -7,7 +7,7 @@
 
 | | | |
 |---|---|---|
-| [**leonbubova.github.io**](https://bubova.de/) <sub>26d ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>26d ago</sub> | [**gen8**](https://bubova.de/gen8/) <sub>27d ago</sub> |
+| [**leonbubova.github.io**](https://bubova.de/) <sub>27d ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>27d ago</sub> | [**gen8**](https://bubova.de/gen8/) <sub>27d ago</sub> |
 | [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>27d ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>1mo ago</sub> | [**soft-landing**](https://bubova.de/soft-landing/) <sub>1mo ago</sub> |
 | [**shush-landingpage**](https://shush.love/) <sub>2mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>2mo ago</sub> | [**vibe**](https://bubova.de/vibe/) <sub>2mo ago</sub> |
 | [**vevi-design**](https://bubova.de/vevi-design/) <sub>7mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>8mo ago</sub> | [**third-spaces**](https://bubova.de/third-spaces/) <sub>8mo ago</sub> |
@@ -21,8 +21,8 @@
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
 | [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
-| [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 26d ago |
-| [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 26d ago |
+| [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 27d ago |
+| [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 27d ago |
 | [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 27d ago |
 | [research-paper-reader](https://github.com/leonbubova/research-paper-reader) | Clean, Markdown-sourced dark reader for Harvard CS197 (AI Research Experiences) lecture notes — readable by humans and fed straight to agents. | [live](https://bubova.de/research-paper-reader/) | HTML | 27d ago |
 | [subrosa-landingpage](https://github.com/leonbubova/subrosa-landingpage) | Subrosa — deine stimme, dein text | [live](https://subrosa-voice.de/) | HTML | 1mo ago |
@@ -71,7 +71,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-10-13 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-10-14 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

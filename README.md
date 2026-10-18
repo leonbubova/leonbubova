@@ -20,7 +20,7 @@
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
-| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
+| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | yesterday |
 | [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 1mo ago |
 | [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 1mo ago |
 | [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 1mo ago |
@@ -71,7 +71,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-10-17 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-10-18 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

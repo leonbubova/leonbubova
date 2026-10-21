@@ -10,7 +10,7 @@
 | [**leonbubova.github.io**](https://bubova.de/) <sub>1mo ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>1mo ago</sub> | [**gen8**](https://bubova.de/gen8/) <sub>1mo ago</sub> |
 | [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>1mo ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>1mo ago</sub> | [**soft-landing**](https://bubova.de/soft-landing/) <sub>1mo ago</sub> |
 | [**shush-landingpage**](https://shush.love/) <sub>2mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>2mo ago</sub> | [**vibe**](https://bubova.de/vibe/) <sub>2mo ago</sub> |
-| [**vevi-design**](https://bubova.de/vevi-design/) <sub>7mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>8mo ago</sub> | [**third-spaces**](https://bubova.de/third-spaces/) <sub>8mo ago</sub> |
+| [**vevi-design**](https://bubova.de/vevi-design/) <sub>7mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>8mo ago</sub> | [**third-spaces**](https://bubova.de/third-spaces/) <sub>9mo ago</sub> |
 | [**egym-leon**](https://bubova.de/egym-leon/) <sub>1y ago</sub> | [**egym-karo**](https://bubova.de/egym-karo/) <sub>1y ago</sub> | [**two-pizzas**](https://bubova.de/two-pizzas/) <sub>2y ago</sub> |
 | [**third-ear**](https://bubova.de/third-ear/) <sub>4y ago</sub> | [**easychords**](https://bubova.de/easychords/) <sub>4y ago</sub> |  |
 <!-- SITES:END -->
@@ -20,7 +20,7 @@
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
-| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
+| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | yesterday |
 | [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 1mo ago |
 | [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 1mo ago |
 | [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 1mo ago |
@@ -32,7 +32,7 @@
 | [shush-model-export](https://github.com/leonbubova/shush-model-export) |  |  | Python | 2mo ago |
 | [vibe](https://github.com/leonbubova/vibe) | What would you build if no one was watching? | [live](https://bubova.de/vibe/) | HTML | 2mo ago |
 | [the-gradient](https://github.com/leonbubova/the-gradient) |  |  | HTML | 2mo ago |
-| [shush-app-releases](https://github.com/leonbubova/shush-app-releases) |  |  |  | 2mo ago |
+| [shush-app-releases](https://github.com/leonbubova/shush-app-releases) |  |  |  | 3mo ago |
 
 </details>
 <details><summary>Older than 6 months (27)</summary>
@@ -43,7 +43,7 @@
 | [vevi-design](https://github.com/leonbubova/vevi-design) | vevi — Veganes Vintage Café Website \| Köln | [live](https://bubova.de/vevi-design/) | HTML | 7mo ago |
 | [shush-app-legacy](https://github.com/leonbubova/shush-app-legacy) | Hush — privacy-first AI dictation for Android. Transcribe on-device, even in flight mode. No cloud needed. |  | Kotlin | 7mo ago |
 | [third-spaces-2](https://github.com/leonbubova/third-spaces-2) |  | [live](https://bubova.de/third-spaces-2/) | CSS | 8mo ago |
-| [third-spaces](https://github.com/leonbubova/third-spaces) |  | [live](https://bubova.de/third-spaces/) | JavaScript | 8mo ago |
+| [third-spaces](https://github.com/leonbubova/third-spaces) |  | [live](https://bubova.de/third-spaces/) | JavaScript | 9mo ago |
 | [egym-leon](https://github.com/leonbubova/egym-leon) |  | [live](https://bubova.de/egym-leon/) | CSS | 1y ago |
 | [egym-karo](https://github.com/leonbubova/egym-karo) |  | [live](https://bubova.de/egym-karo/) | HTML | 1y ago |
 | [algo-trader](https://github.com/leonbubova/algo-trader) |  |  | TypeScript | 2y ago |
@@ -71,7 +71,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-10-20 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-10-21 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

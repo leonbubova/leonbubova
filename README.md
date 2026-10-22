@@ -9,7 +9,7 @@
 |---|---|---|
 | [**leonbubova.github.io**](https://bubova.de/) <sub>1mo ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>1mo ago</sub> | [**gen8**](https://bubova.de/gen8/) <sub>1mo ago</sub> |
 | [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>1mo ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>1mo ago</sub> | [**soft-landing**](https://bubova.de/soft-landing/) <sub>1mo ago</sub> |
-| [**shush-landingpage**](https://shush.love/) <sub>2mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>2mo ago</sub> | [**vibe**](https://bubova.de/vibe/) <sub>2mo ago</sub> |
+| [**shush-landingpage**](https://shush.love/) <sub>2mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>2mo ago</sub> | [**vibe**](https://bubova.de/vibe/) <sub>3mo ago</sub> |
 | [**vevi-design**](https://bubova.de/vevi-design/) <sub>7mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>8mo ago</sub> | [**third-spaces**](https://bubova.de/third-spaces/) <sub>9mo ago</sub> |
 | [**egym-leon**](https://bubova.de/egym-leon/) <sub>1y ago</sub> | [**egym-karo**](https://bubova.de/egym-karo/) <sub>1y ago</sub> | [**two-pizzas**](https://bubova.de/two-pizzas/) <sub>2y ago</sub> |
 | [**third-ear**](https://bubova.de/third-ear/) <sub>4y ago</sub> | [**easychords**](https://bubova.de/easychords/) <sub>4y ago</sub> |  |
@@ -30,8 +30,8 @@
 | [shush-landingpage](https://github.com/leonbubova/shush-landingpage) |  | [live](https://shush.love/) | JavaScript | 2mo ago |
 | [shush-landing-page-v1](https://github.com/leonbubova/shush-landing-page-v1) |  | [live](https://bubova.de/shush-landing-page-v1/) | HTML | 2mo ago |
 | [shush-model-export](https://github.com/leonbubova/shush-model-export) |  |  | Python | 2mo ago |
-| [vibe](https://github.com/leonbubova/vibe) | What would you build if no one was watching? | [live](https://bubova.de/vibe/) | HTML | 2mo ago |
-| [the-gradient](https://github.com/leonbubova/the-gradient) |  |  | HTML | 2mo ago |
+| [vibe](https://github.com/leonbubova/vibe) | What would you build if no one was watching? | [live](https://bubova.de/vibe/) | HTML | 3mo ago |
+| [the-gradient](https://github.com/leonbubova/the-gradient) |  |  | HTML | 3mo ago |
 | [shush-app-releases](https://github.com/leonbubova/shush-app-releases) |  |  |  | 3mo ago |
 
 </details>
@@ -71,7 +71,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-10-21 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-10-22 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

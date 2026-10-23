@@ -20,7 +20,7 @@
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
-| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | yesterday |
+| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
 | [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 1mo ago |
 | [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 1mo ago |
 | [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 1mo ago |
@@ -29,7 +29,7 @@
 | [soft-landing](https://github.com/leonbubova/soft-landing) | Static one-page site (Vite, GitHub Pages) | [live](https://bubova.de/soft-landing/) | JavaScript | 1mo ago |
 | [shush-landingpage](https://github.com/leonbubova/shush-landingpage) |  | [live](https://shush.love/) | JavaScript | 2mo ago |
 | [shush-landing-page-v1](https://github.com/leonbubova/shush-landing-page-v1) |  | [live](https://bubova.de/shush-landing-page-v1/) | HTML | 2mo ago |
-| [shush-model-export](https://github.com/leonbubova/shush-model-export) |  |  | Python | 2mo ago |
+| [shush-model-export](https://github.com/leonbubova/shush-model-export) |  |  | Python | 3mo ago |
 | [vibe](https://github.com/leonbubova/vibe) | What would you build if no one was watching? | [live](https://bubova.de/vibe/) | HTML | 3mo ago |
 | [the-gradient](https://github.com/leonbubova/the-gradient) |  |  | HTML | 3mo ago |
 | [shush-app-releases](https://github.com/leonbubova/shush-app-releases) |  |  |  | 3mo ago |
@@ -71,7 +71,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-10-22 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-10-23 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

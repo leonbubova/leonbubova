@@ -41,7 +41,7 @@
 |---|---|---|---|---|
 | [moonshine-german](https://github.com/leonbubova/moonshine-german) | Fine-tuning Moonshine Tiny (27M) for German speech recognition |  | Jupyter Notebook | 6mo ago |
 | [vevi-design](https://github.com/leonbubova/vevi-design) | vevi — Veganes Vintage Café Website \| Köln | [live](https://bubova.de/vevi-design/) | HTML | 7mo ago |
-| [shush-app-legacy](https://github.com/leonbubova/shush-app-legacy) | Hush — privacy-first AI dictation for Android. Transcribe on-device, even in flight mode. No cloud needed. |  | Kotlin | 7mo ago |
+| [shush-app-legacy](https://github.com/leonbubova/shush-app-legacy) | Hush — privacy-first AI dictation for Android. Transcribe on-device, even in flight mode. No cloud needed. |  | Kotlin | 8mo ago |
 | [third-spaces-2](https://github.com/leonbubova/third-spaces-2) |  | [live](https://bubova.de/third-spaces-2/) | CSS | 9mo ago |
 | [third-spaces](https://github.com/leonbubova/third-spaces) |  | [live](https://bubova.de/third-spaces/) | JavaScript | 9mo ago |
 | [egym-leon](https://github.com/leonbubova/egym-leon) |  | [live](https://bubova.de/egym-leon/) | CSS | 1y ago |
@@ -71,7 +71,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-10-29 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-10-30 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

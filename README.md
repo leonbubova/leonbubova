@@ -10,7 +10,7 @@
 | [**leonbubova.github.io**](https://bubova.de/) <sub>1mo ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>1mo ago</sub> | [**gen8**](https://bubova.de/gen8/) <sub>1mo ago</sub> |
 | [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>1mo ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>1mo ago</sub> | [**soft-landing**](https://bubova.de/soft-landing/) <sub>2mo ago</sub> |
 | [**shush-landingpage**](https://shush.love/) <sub>3mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>3mo ago</sub> | [**vibe**](https://bubova.de/vibe/) <sub>3mo ago</sub> |
-| [**vevi-design**](https://bubova.de/vevi-design/) <sub>7mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>9mo ago</sub> | [**third-spaces**](https://bubova.de/third-spaces/) <sub>9mo ago</sub> |
+| [**vevi-design**](https://bubova.de/vevi-design/) <sub>8mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>9mo ago</sub> | [**third-spaces**](https://bubova.de/third-spaces/) <sub>9mo ago</sub> |
 | [**egym-leon**](https://bubova.de/egym-leon/) <sub>1y ago</sub> | [**egym-karo**](https://bubova.de/egym-karo/) <sub>1y ago</sub> | [**two-pizzas**](https://bubova.de/two-pizzas/) <sub>2y ago</sub> |
 | [**third-ear**](https://bubova.de/third-ear/) <sub>4y ago</sub> | [**easychords**](https://bubova.de/easychords/) <sub>4y ago</sub> |  |
 <!-- SITES:END -->
@@ -40,7 +40,7 @@
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
 | [moonshine-german](https://github.com/leonbubova/moonshine-german) | Fine-tuning Moonshine Tiny (27M) for German speech recognition |  | Jupyter Notebook | 7mo ago |
-| [vevi-design](https://github.com/leonbubova/vevi-design) | vevi — Veganes Vintage Café Website \| Köln | [live](https://bubova.de/vevi-design/) | HTML | 7mo ago |
+| [vevi-design](https://github.com/leonbubova/vevi-design) | vevi — Veganes Vintage Café Website \| Köln | [live](https://bubova.de/vevi-design/) | HTML | 8mo ago |
 | [shush-app-legacy](https://github.com/leonbubova/shush-app-legacy) | Hush — privacy-first AI dictation for Android. Transcribe on-device, even in flight mode. No cloud needed. |  | Kotlin | 8mo ago |
 | [third-spaces-2](https://github.com/leonbubova/third-spaces-2) |  | [live](https://bubova.de/third-spaces-2/) | CSS | 9mo ago |
 | [third-spaces](https://github.com/leonbubova/third-spaces) |  | [live](https://bubova.de/third-spaces/) | JavaScript | 9mo ago |
@@ -71,7 +71,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-11-08 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-11-09 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

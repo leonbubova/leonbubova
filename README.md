@@ -7,7 +7,7 @@
 
 | | | |
 |---|---|---|
-| [**applied-ai-notes**](https://bubova.de/applied-ai-notes/) <sub>yesterday</sub> | [**leonbubova.github.io**](https://bubova.de/) <sub>2mo ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>2mo ago</sub> |
+| [**applied-ai-notes**](https://bubova.de/applied-ai-notes/) <sub>2d ago</sub> | [**leonbubova.github.io**](https://bubova.de/) <sub>2mo ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>2mo ago</sub> |
 | [**gen8**](https://bubova.de/gen8/) <sub>2mo ago</sub> | [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>2mo ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>2mo ago</sub> |
 | [**soft-landing**](https://bubova.de/soft-landing/) <sub>2mo ago</sub> | [**shush-landingpage**](https://shush.love/) <sub>3mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>3mo ago</sub> |
 | [**vibe**](https://bubova.de/vibe/) <sub>4mo ago</sub> | [**vevi-design**](https://bubova.de/vevi-design/) <sub>8mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>9mo ago</sub> |
@@ -20,8 +20,8 @@
 
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
-| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
-| [applied-ai-notes](https://github.com/leonbubova/applied-ai-notes) | Study notes with diagrams for the Applied AI lectures (perceptron, TensorFlow.js, MNIST) | [live](https://bubova.de/applied-ai-notes/) | HTML | yesterday |
+| [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | yesterday |
+| [applied-ai-notes](https://github.com/leonbubova/applied-ai-notes) | Study notes with diagrams for the Applied AI lectures (perceptron, TensorFlow.js, MNIST) | [live](https://bubova.de/applied-ai-notes/) | HTML | 2d ago |
 | [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 2mo ago |
 | [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 2mo ago |
 | [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 2mo ago |
@@ -30,7 +30,7 @@
 | [soft-landing](https://github.com/leonbubova/soft-landing) | Static one-page site (Vite, GitHub Pages) | [live](https://bubova.de/soft-landing/) | JavaScript | 2mo ago |
 | [shush-landingpage](https://github.com/leonbubova/shush-landingpage) |  | [live](https://shush.love/) | JavaScript | 3mo ago |
 | [shush-landing-page-v1](https://github.com/leonbubova/shush-landing-page-v1) |  | [live](https://bubova.de/shush-landing-page-v1/) | HTML | 3mo ago |
-| [shush-model-export](https://github.com/leonbubova/shush-model-export) |  |  | Python | 3mo ago |
+| [shush-model-export](https://github.com/leonbubova/shush-model-export) |  |  | Python | 4mo ago |
 | [vibe](https://github.com/leonbubova/vibe) | What would you build if no one was watching? | [live](https://bubova.de/vibe/) | HTML | 4mo ago |
 | [the-gradient](https://github.com/leonbubova/the-gradient) |  |  | HTML | 4mo ago |
 | [shush-app-releases](https://github.com/leonbubova/shush-app-releases) |  |  |  | 4mo ago |
@@ -72,7 +72,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-11-21 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-11-22 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

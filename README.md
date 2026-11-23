@@ -7,10 +7,10 @@
 
 | | | |
 |---|---|---|
-| [**applied-ai-notes**](https://bubova.de/applied-ai-notes/) <sub>2d ago</sub> | [**leonbubova.github.io**](https://bubova.de/) <sub>2mo ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>2mo ago</sub> |
+| [**applied-ai-notes**](https://bubova.de/applied-ai-notes/) <sub>3d ago</sub> | [**leonbubova.github.io**](https://bubova.de/) <sub>2mo ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>2mo ago</sub> |
 | [**gen8**](https://bubova.de/gen8/) <sub>2mo ago</sub> | [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>2mo ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>2mo ago</sub> |
 | [**soft-landing**](https://bubova.de/soft-landing/) <sub>2mo ago</sub> | [**shush-landingpage**](https://shush.love/) <sub>3mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>3mo ago</sub> |
-| [**vibe**](https://bubova.de/vibe/) <sub>4mo ago</sub> | [**vevi-design**](https://bubova.de/vevi-design/) <sub>8mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>9mo ago</sub> |
+| [**vibe**](https://bubova.de/vibe/) <sub>4mo ago</sub> | [**vevi-design**](https://bubova.de/vevi-design/) <sub>8mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>10mo ago</sub> |
 | [**third-spaces**](https://bubova.de/third-spaces/) <sub>10mo ago</sub> | [**egym-leon**](https://bubova.de/egym-leon/) <sub>1y ago</sub> | [**egym-karo**](https://bubova.de/egym-karo/) <sub>1y ago</sub> |
 | [**two-pizzas**](https://bubova.de/two-pizzas/) <sub>3y ago</sub> | [**third-ear**](https://bubova.de/third-ear/) <sub>4y ago</sub> | [**easychords**](https://bubova.de/easychords/) <sub>4y ago</sub> |
 <!-- SITES:END -->
@@ -21,7 +21,7 @@
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
 | [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | yesterday |
-| [applied-ai-notes](https://github.com/leonbubova/applied-ai-notes) | Study notes with diagrams for the Applied AI lectures (perceptron, TensorFlow.js, MNIST) | [live](https://bubova.de/applied-ai-notes/) | HTML | 2d ago |
+| [applied-ai-notes](https://github.com/leonbubova/applied-ai-notes) | Study notes with diagrams for the Applied AI lectures (perceptron, TensorFlow.js, MNIST) | [live](https://bubova.de/applied-ai-notes/) | HTML | 3d ago |
 | [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 2mo ago |
 | [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 2mo ago |
 | [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 2mo ago |
@@ -43,7 +43,7 @@
 | [moonshine-german](https://github.com/leonbubova/moonshine-german) | Fine-tuning Moonshine Tiny (27M) for German speech recognition |  | Jupyter Notebook | 7mo ago |
 | [vevi-design](https://github.com/leonbubova/vevi-design) | vevi — Veganes Vintage Café Website \| Köln | [live](https://bubova.de/vevi-design/) | HTML | 8mo ago |
 | [shush-app-legacy](https://github.com/leonbubova/shush-app-legacy) | Hush — privacy-first AI dictation for Android. Transcribe on-device, even in flight mode. No cloud needed. |  | Kotlin | 8mo ago |
-| [third-spaces-2](https://github.com/leonbubova/third-spaces-2) |  | [live](https://bubova.de/third-spaces-2/) | CSS | 9mo ago |
+| [third-spaces-2](https://github.com/leonbubova/third-spaces-2) |  | [live](https://bubova.de/third-spaces-2/) | CSS | 10mo ago |
 | [third-spaces](https://github.com/leonbubova/third-spaces) |  | [live](https://bubova.de/third-spaces/) | JavaScript | 10mo ago |
 | [egym-leon](https://github.com/leonbubova/egym-leon) |  | [live](https://bubova.de/egym-leon/) | CSS | 1y ago |
 | [egym-karo](https://github.com/leonbubova/egym-karo) |  | [live](https://bubova.de/egym-karo/) | HTML | 1y ago |
@@ -72,7 +72,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-11-22 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-11-23 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--

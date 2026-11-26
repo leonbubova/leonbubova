@@ -7,7 +7,7 @@
 
 | | | |
 |---|---|---|
-| [**applied-ai-notes**](https://bubova.de/applied-ai-notes/) <sub>5d ago</sub> | [**leonbubova.github.io**](https://bubova.de/) <sub>2mo ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>2mo ago</sub> |
+| [**applied-ai-notes**](https://bubova.de/applied-ai-notes/) <sub>6d ago</sub> | [**leonbubova.github.io**](https://bubova.de/) <sub>2mo ago</sub> | [**kaputt**](https://bubova.de/kaputt/) <sub>2mo ago</sub> |
 | [**gen8**](https://bubova.de/gen8/) <sub>2mo ago</sub> | [**research-paper-reader**](https://bubova.de/research-paper-reader/) <sub>2mo ago</sub> | [**subrosa-landingpage**](https://subrosa-voice.de/) <sub>2mo ago</sub> |
 | [**soft-landing**](https://bubova.de/soft-landing/) <sub>2mo ago</sub> | [**shush-landingpage**](https://shush.love/) <sub>3mo ago</sub> | [**shush-landing-page-v1**](https://bubova.de/shush-landing-page-v1/) <sub>3mo ago</sub> |
 | [**vibe**](https://bubova.de/vibe/) <sub>4mo ago</sub> | [**vevi-design**](https://bubova.de/vevi-design/) <sub>8mo ago</sub> | [**third-spaces-2**](https://bubova.de/third-spaces-2/) <sub>10mo ago</sub> |
@@ -21,7 +21,7 @@
 | Repo | About | | Lang | Last push |
 |---|---|---|---|---|
 | [leonbubova](https://github.com/leonbubova/leonbubova) | Config files for my GitHub profile. |  | JavaScript | today |
-| [applied-ai-notes](https://github.com/leonbubova/applied-ai-notes) | Study notes with diagrams for the Applied AI lectures (perceptron, TensorFlow.js, MNIST) | [live](https://bubova.de/applied-ai-notes/) | HTML | 5d ago |
+| [applied-ai-notes](https://github.com/leonbubova/applied-ai-notes) | Study notes with diagrams for the Applied AI lectures (perceptron, TensorFlow.js, MNIST) | [live](https://bubova.de/applied-ai-notes/) | HTML | 6d ago |
 | [leonbubova.github.io](https://github.com/leonbubova/leonbubova.github.io) | My Personal Website | [live](https://bubova.de/) | HTML | 2mo ago |
 | [kaputt](https://github.com/leonbubova/kaputt) |  | [live](https://bubova.de/kaputt/) | HTML | 2mo ago |
 | [gen8](https://github.com/leonbubova/gen8) | Join page for the Code & Context Gen8 WhatsApp group | [live](https://bubova.de/gen8/) | HTML | 2mo ago |
@@ -54,8 +54,8 @@
 | [test-repo](https://github.com/leonbubova/test-repo) |  |  |  | 2y ago |
 | [microdot-server](https://github.com/leonbubova/microdot-server) |  |  | Python | 2y ago |
 | [websocket-test](https://github.com/leonbubova/websocket-test) |  |  |  | 2y ago |
-| [formate-frontend](https://github.com/leonbubova/formate-frontend) |  |  | TypeScript | 2y ago |
-| [fix-my-data-express](https://github.com/leonbubova/fix-my-data-express) | A simple express backend to power the fix-my-data frontend |  | JavaScript | 2y ago |
+| [formate-frontend](https://github.com/leonbubova/formate-frontend) |  |  | TypeScript | 3y ago |
+| [fix-my-data-express](https://github.com/leonbubova/fix-my-data-express) | A simple express backend to power the fix-my-data frontend |  | JavaScript | 3y ago |
 | [two-pizzas](https://github.com/leonbubova/two-pizzas) | An app to share your ideas and find co-founders | [live](https://bubova.de/two-pizzas/) | JavaScript | 3y ago |
 | [three](https://github.com/leonbubova/three) |  |  | JavaScript | 3y ago |
 | [cypress-chrome-extension-minimal-reproduction](https://github.com/leonbubova/cypress-chrome-extension-minimal-reproduction) |  |  | JavaScript | 4y ago |
@@ -72,7 +72,7 @@
 <!-- REPOS:END -->
 
 <!-- STAMP:START -->
-<sub>auto-updated 2026-11-25 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
+<sub>auto-updated 2026-11-26 by [update-readme.yml](.github/workflows/update-readme.yml)</sub>
 <!-- STAMP:END -->
 
 <!--
